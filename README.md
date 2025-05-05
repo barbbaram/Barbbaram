@@ -27,7 +27,7 @@
 
 ## 💡 O que me move
 
-Sou apaixonada por resolver problemas reais com tecnologia. Acredito que dados bem analisados, empatia com o usuário e foco em melhoria contínua são os pilares para criar produtos relevantes e sustentáveis.
+Sou apaixonada por resolver problemas reais. Acredito que dados bem analisados, empatia com o usuário e foco em melhoria contínua são os pilares para criar produtos relevantes e sustentáveis.
 
 ## 🛠️ Habilidades em desenvolvimento
 
